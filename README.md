@@ -1,5 +1,4 @@
-I am a sophomore majoring in Computer Information Systems. 
-
+Hello! :)
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,6 @@
 Hello! :)
+
+https://github.com/mariareccoppa/github-stats/blob/4f2ecbf5df13dd5b7572c89b9baca07df7471da5/generated/languages.svg
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

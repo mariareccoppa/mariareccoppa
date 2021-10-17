@@ -1,4 +1,10 @@
 <div align="center">
+  
+よろしくおねがいいします !
+  
+</div>
+
+<div align="center">
 
 <a href="https://github.com/mariareccoppa/github-stats">
   

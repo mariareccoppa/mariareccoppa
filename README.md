@@ -1,7 +1,13 @@
-Hello! :)
+<div align="center">
 
-https://github.com/mariareccoppa/github-stats
+<a href="https://github.com/mariareccoppa/github-stats">
+  
+![](https://raw.githubusercontent.com/mariareccoppa/github-stats/master/generated/overview.svg)
+![](https://github.com/mariareccoppa/github-stats/blob/master/generated/languages.svg)
 
+</a>
+
+</div>
 
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

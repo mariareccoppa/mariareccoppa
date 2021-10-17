@@ -1,6 +1,6 @@
 <div align="center">
 
-よろしくお願いします !
+Thanks for stopping by!
   
 </div>
 

@@ -9,8 +9,9 @@ Thanks for stopping by!
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariareccoppa&show_icons=true&theme=dark)
 ](https://github.com/mariareccoppa/github-readme-stats)
 
-
 </div>
+
+hello!
 
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

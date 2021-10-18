@@ -6,10 +6,8 @@ Thanks for stopping by!
 
 <div align="center">
 
-<a href=https://github-readme-stats.vercel.app/api?username=mariareccoppa>
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariareccoppa)](https://github.com/mariareccoppa/github-readme-stats)
 
-</a>
 
 </div>
 

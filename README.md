@@ -6,10 +6,8 @@ Thanks for stopping by!
 
 <div align="center">
 
-<a href="https://github.com/mariareccoppa/github-stats">
+<a href=https://github-readme-stats.vercel.app/api?username=mariareccoppa>
   
-![](https://raw.githubusercontent.com/mariareccoppa/github-stats/master/generated/overview.svg)
-![](https://github.com/mariareccoppa/github-stats/blob/master/generated/languages.svg)
 
 </a>
 

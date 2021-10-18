@@ -1,17 +1,29 @@
 <div align="center">
 
-Thanks for stopping by!
-  
-</div>
-
-<div align="center">
-
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariareccoppa&show_icons=true&theme=dark)
 ](https://github.com/mariareccoppa/github-readme-stats)
 
 </div>
 
-hello!
+<div align="center">
+
+19 y/o slowly learning how to code
+  
+</div>
+
+<div align="center">
+
+she/her
+  
+</div>
+
+<div align="center">
+
+Thanks for stopping by!
+  
+</div>
+
+
 
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

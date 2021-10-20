@@ -13,12 +13,6 @@
 
 <div align="center">
 
-She/her
-  
-</div>
-
-<div align="center">
-
 Thanks for stopping by!
   
 </div>

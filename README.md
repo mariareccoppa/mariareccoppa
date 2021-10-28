@@ -7,7 +7,25 @@
 
 <div align="center">
 
-19 y/o slowly learning how to code
+Molloy College 2024
+  
+</div>
+
+<div align="center">
+
+Computer Information Systems Major
+  
+</div>
+
+<div align="center">
+
+Digital Art Minor
+  
+</div>
+
+<div align="center">
+
+Class of 2024
   
 </div>
 
@@ -16,8 +34,6 @@
 Thanks for stopping by!
   
 </div>
-
-
 
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

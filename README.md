@@ -7,31 +7,25 @@
 
 <div align="center">
 
-Molloy College 2024
+Molloy College Class of 2024 🎓
   
 </div>
 
 <div align="center">
 
-Computer Information Systems Major
+Computer Information Systems Major 💻
   
 </div>
 
 <div align="center">
 
-Digital Art Minor
+Digital Art Minor 🎨
   
 </div>
 
 <div align="center">
-
-Class of 2024
   
-</div>
-
-<div align="center">
-
-Thanks for stopping by!
+Thanks for Stopping By! 👋
   
 </div>
 

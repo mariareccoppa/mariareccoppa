@@ -6,6 +6,12 @@
 </div>
 
 <div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaReccoppa&theme=tokyonight)
+  
+ </div>
+  
+<div align="center">
 
 Molloy College Class of 2024 🎓
   

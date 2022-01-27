@@ -1,11 +1,4 @@
 <div align="center">
-
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariareccoppa&show_icons=true&theme=dark)
-](https://github.com/mariareccoppa/github-readme-stats)
-
-</div>
-
-<div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaReccoppa&theme=tokyonight)
   

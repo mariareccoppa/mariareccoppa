@@ -22,12 +22,6 @@ Digital Art Minor 🎨
   
 </div>
 
-<div align="center">
-  
-Thanks for Stopping By! 👋
-  
-</div>
-
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

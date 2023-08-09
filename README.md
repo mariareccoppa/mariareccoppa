@@ -18,7 +18,15 @@ Computer Information Systems Major
 
 <div align="center">
 
-Digital Art Minor
+Break Through Tech AI NYC Cohort 2023-2024
+  
+</div>
+
+</div>
+
+<div align="center">
+
+Digital Art and Data Science Minor
   
 </div>
 

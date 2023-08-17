@@ -18,7 +18,7 @@ B.S. in Computer Information Systems from Molloy University, Expected May 2024
 
 <div align="center">
 
-Focused in NLP and Neural Networks
+Focused on NLP and Neural Networks
   
 </div>
 

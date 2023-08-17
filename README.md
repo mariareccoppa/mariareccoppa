@@ -12,7 +12,7 @@ Molloy College Class of 2024
 
 <div align="center">
 
-Computer Information Systems Major
+B.S. in Computer Information Systems from Molloy University, Expected May 2024 
   
 </div>
 

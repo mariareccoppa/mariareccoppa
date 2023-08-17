@@ -16,11 +16,9 @@ B.S. in Computer Information Systems from Molloy University, Expected May 2024
   
 </div>
 
-</div>
-
 <div align="center">
 
-Digital Art and Data Science Minor
+Most interested in NLP and Neural Networks
   
 </div>
 

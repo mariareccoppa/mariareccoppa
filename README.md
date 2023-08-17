@@ -12,7 +12,7 @@ B.S. in Computer Information Systems from Molloy University, Expected May 2024
 
 <div align="center">
 
-<a href="https://www.breakthroughtech.org/what-we-do/the-ai-program/">Break Through Tech AI</a> NYC Cohort 2023-2024
+[Break Through Tech AI](https://www.breakthroughtech.org/what-we-do/the-ai-program/) NYC Cohort 2023-2024
   
 </div>
 

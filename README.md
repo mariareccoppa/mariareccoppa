@@ -22,6 +22,12 @@ Focused on NLP and Neural Networks
   
 </div>
 
+<div align="center">
+
+mariareccoppa@gmail.com
+  
+</div>
+
 <!--
 **mariareccoppa/mariareccoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

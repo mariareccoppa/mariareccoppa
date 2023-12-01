@@ -18,12 +18,6 @@ B.S. in Computer Information Systems from Molloy University, Expected May 2024
 
 <div align="center">
 
-Focused on NLP and Neural Networks
-  
-</div>
-
-<div align="center">
-
 mariareccoppa@gmail.com
   
 </div>

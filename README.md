@@ -12,7 +12,7 @@ B.S. in Computer Information Systems from Molloy University, Expected May 2024
 
 <div align="center">
 
-[Break Through Tech AI](https://www.breakthroughtech.org/what-we-do/the-ai-program/) NYC Cohort
+[Break Through Tech AI](https://www.breakthroughtech.org/what-we-do/stories-insights/maria-reccoppa-putting-her-break-through-tech-ai-skills-to-work-at-the-new-york-public-library/) NYC Cohort, 2023 - 2024
   
 </div>
 

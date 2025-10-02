@@ -6,7 +6,7 @@
 
 <div align="center">
 
-B.S. in Computer Information Systems from Molloy University, Expected May 2024 
+B.S. in Computer Information Systems from Molloy University, May 2024 
   
 </div>
 
